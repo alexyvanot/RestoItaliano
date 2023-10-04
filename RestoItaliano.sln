@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestoItaliano", "RestoItaliano\RestoItaliano.csproj", "{78E35A0E-640F-4494-8492-8B524730E75C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78E35A0E-640F-4494-8492-8B524730E75C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78E35A0E-640F-4494-8492-8B524730E75C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78E35A0E-640F-4494-8492-8B524730E75C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78E35A0E-640F-4494-8492-8B524730E75C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB9ECB68-02CE-42FC-87D9-E51AF6C601F8}
+	EndGlobalSection
+EndGlobal
